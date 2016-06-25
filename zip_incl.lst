@@ -1,0 +1,10 @@
+*.sln
+*.cpp
+*.h
+*.rc
+*.vcxproj
+*.bmp
+*.rc2
+*.ico
+*.cmd
+*.lst
